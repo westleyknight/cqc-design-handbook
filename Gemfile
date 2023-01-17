@@ -7,3 +7,5 @@ gem "just-the-docs", "0.4.0.rc4" # currently the latest pre-release
 # gem "just-the-docs"            # the latest release - currently 0.3.3
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-mermaid"
