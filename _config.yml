@@ -9,3 +9,6 @@ aux_links:
 
 logo: "/assets/images/just-the-docs.png"
 color_scheme: light
+
+mermaid:
+  src: 'path/to/mermaid.js'
